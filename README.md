@@ -2,4 +2,6 @@ Hi White Diddy is being updated Monday-Friday. I am using VB code to code this s
 
 This is a .VBS so the code is open source.
 
+To download locate White Diddy Folder and download raw. 
+
 CONTACT-- whitediddycreator@gmail.com
